@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "label": "Food",
+      "id": 2
+    },
+    {
+      "label": "Foodpanda",
+      "id": 3
+    },
+    {
+      "label": "Grocery",
+      "id": 4
+    },
+    {
+      "label": "Shopping",
+      "id": 5
+    },
+    {
+      "label": "Subscriptions",
+      "id": 6
+    },
+    {
+      "label": "Bill",
+      "id": 7
+    },
+    {
+      "label": "Cab",
+      "id": 8
+    },
+    {
+      "label": "Saloon",
+      "id": 9
+    },
+    {
+      "label": "Clinic",
+      "id": 10
+    },
+    {
+      "label": "CycleEMI",
+      "id": 11
+    },
+    {
+      "label": "Gym",
+      "id": 12
+    }
+  ],
+  "expenses": [
+    {
+      "amount": 10,
+      "category": 2,
+      "date": "15-11-2023",
+      "billingMonth": "Dec-2023",
+      "notes": "",
+      "id": 1
+    },
+    {
+      "amount": 20,
+      "category": 6,
+      "date": "18-12-2023",
+      "billingMonth": "Jan-2024",
+      "notes": "Netflix",
+      "id": 3
+    },
+    {
+      "amount": 50,
+      "category": 4,
+      "date": "14-11-2023",
+      "billingMonth": "Dec-2023",
+      "notes": "",
+      "id": 4
+    }
+  ]
+}
